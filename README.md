@@ -8,16 +8,18 @@ Python programming language is used for developing the AI virtual mouse system, 
 
 
 # *PROBLEM STATEMENT :-*
+
 To develop AI to control the computer cursor with natural movements like hand gestures, replacing the physical mouse.
 
 
 
 # *OBJECTIVE :-*
+
 The main objective of the proposed AI virtual mouse system is to 
 •	To develop an alternative to the regular and traditional mouse system to perform and control the mouse functions
 
 
-# *SOFTWARE REQUIREMENT :-*
+# *SOFTWARE REQUIREMENTS :-*
 
 o	Operating System: Windows, macOS, or Linux (depending on chosen software).
 
@@ -26,6 +28,13 @@ o	AI Framework (e.g. TensorFlow, PyTorch) for gesture recognition.
 o	Computer Vision Library (e.g. OpenCV) for video processing and hand detection.
 
 o	Python (or similar language) to code the application.
+
+
+
+# *CONCLUSION :-*
+
+The AI Virtual Mouse System represents a significant advancement in human-computer interaction, particularly for individuals with physical disabilities or limitations. By leveraging artificial intelligence (AI) algorithms and real-time processing capabilities, this system offers users a seamless and intuitive method for controlling their computers without the need for traditional input devices such as a physical mouse or keyboard.
+Throughout this report, we have explored the various components and functionalities of the AI Virtual Mouse System. From its use of computer vision techniques to track and interpret hand gestures, to its integration of machine learning algorithms for precise and responsive cursor movement, this system demonstrates the potential of AI to revolutionize how we interact with technology.
 
 
 
